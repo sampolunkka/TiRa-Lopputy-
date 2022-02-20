@@ -4,7 +4,6 @@
 #include <string.h>
 #include <stdbool.h>
 #include <time.h>
-#include <math.h>
 
 #define WORD_MAX 100
 #define FILE_NAME_MAX 256
